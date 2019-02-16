@@ -1,2 +1,3 @@
 # intelliq
-testingone
+Chandrashekar Athmakuru
+Cognizant technology solutions
